@@ -68,12 +68,12 @@
   /*background-color: #ffe6e6; /* Light romantic tone */
 }
 
-/*.words.line1 {
+.words.line1 {
   top: 5%;
   font-size: 0.5rem;
   width: 15%;
   height: 5%;
-  font-size: 0.7rem;*/
+  font-size: 0.7rem;
 }
 
 .words.line2 {
