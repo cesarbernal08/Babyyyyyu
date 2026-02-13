@@ -69,15 +69,15 @@
 }
 
 .words.line1 {
-  top: 10%;
+  top: 5%;
   font-size: 0.5rem;
-  width: 20%;
-  height: 7%;
+  width: 15%;
+  height: 5%;
   font-size: 0.7rem;
 }
 
 .words.line2 {
-  top: 18%;
+  top: 10%;
   text-align: center;
   font-size: 0.5rem;
 }
